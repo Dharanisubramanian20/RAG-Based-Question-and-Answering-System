@@ -1,4 +1,4 @@
-# Retrieval-Augmented-Generation Based-Q-A-System
+# Retrieval-Augmented Generation Based Q&A System
 
 # Company Policy RAG Chatbot
 
